@@ -14,7 +14,7 @@
 
 ## 运行
 
-1. [在这里](https://github.com/NULL204/NeteaseMusic-Unlocker/releases/)下载最新的版本
+1. [在这里](https://github.com/NULL204/NeteaseMusic-Unlocker/releases/)下载最新的版本（想使用一键脚本的请下载v1.3.1版本）
 
 2. 运行安装文件
 
