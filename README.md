@@ -14,7 +14,7 @@
 
 ## 运行
 
-1. [在这里](https://github.com/NULL204/NeteaseMusic-Unlocker/releases/)下载最新的版本（想使用一键脚本的请下载v1.3.1版本）
+1. [在这里](https://github.com/NULL204/NeteaseMusic-Unlocker/releases/)下载最新的版本（提供一键配置脚本下载）
 
 2. 运行安装文件
 
@@ -76,9 +76,6 @@
 
 - [typcn/163music-mac-client-unlock](https://github.com/typcn/163music-mac-client-unlock)
 
-## 许可
-
-我不知道。。。
 
 ## 声明
 
